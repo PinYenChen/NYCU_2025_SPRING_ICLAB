@@ -3,6 +3,8 @@
 Hi, I'm Pin Yen Chen 👋  
 Welcome to my repository where I share the results of my ICLAB projects and the patterns I used throughout the design and verification process.
 
+---
+
   • **Lab01:** Huffman Coding  
   • **Lab02:** MAZE  
   • **Lab03:** Static Timing Analysis  
