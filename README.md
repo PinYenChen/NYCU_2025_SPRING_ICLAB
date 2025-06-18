@@ -16,5 +16,4 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
   • **Bonus Lab:** Formal Verification  
   • **Midterm Project:** Maze Router Accelerator  
   • **Final Project:** CPU
-- 
 ---
