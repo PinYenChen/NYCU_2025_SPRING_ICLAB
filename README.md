@@ -7,23 +7,23 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 
   • **Lab01:** Huffman Coding **(Combinational Circuits)**   
   
-  • **Lab02:** MAZE (Sequential Circuits)   
+  • **Lab02:** MAZE **(Sequential Circuits)**   
   
-  • **Lab03:** Static Timing Analysis (Pattern and Design)   
+  • **Lab03:** Static Timing Analysis **(Pattern and Design)**   
   
-  • **Lab04:** Two-Head Attention (Software IP)   
+  • **Lab04:** Two-Head Attention **(Software IP)**   
   
-  • **Lab05:** Motion Vector Difference Matching (Macros and SRAM) 
+  • **Lab05:** Motion Vector Difference Matching **(Macros and SRAM)** 
   
-  • **Lab06:** BCH Code Decoder (Synthesis and self-designed IP)   
+  • **Lab06:** BCH Code Decoder **(Synthesis and self-designed IP)**   
   
-  • **Lab07:** Pseudo Random Number Generator (CDC)   
+  • **Lab07:** Pseudo Random Number Generator **(CDC)**   
   
-  • **Lab08:** Siamese Neural Network (Low Power Design)   
+  • **Lab08:** Siamese Neural Network **(Low Power Design)**   
   
-  • **Lab09:** Autonomous Flower Shop System (Design in SystemVerilog)   
+  • **Lab09:** Autonomous Flower Shop System **(Design in SystemVerilog)**   
   
-  • **Lab10:** Verification of Lab09  (Verification in SystemVerilog)   
+  • **Lab10:** Verification of Lab09  **(Verification in SystemVerilog)**   
   
   • **Lab11:** APR of Lab05  
   
@@ -31,9 +31,9 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
   
   • **Bonus Lab:** Formal Verification  
   
-  • **Midterm Project:** Maze Router Accelerator (DRAM, SRAM, AXI Protocol)   
+  • **Midterm Project:** Maze Router Accelerator **(DRAM, SRAM, AXI Protocol)**   
   
-  • **Final Project:** CPU (DRAM, SRAM, AXI Protocol)   
+  • **Final Project:** CPU **(DRAM, SRAM, AXI Protocol)**   
   
 
 
