@@ -9,10 +9,8 @@ Lab05: Motion Vector Difference Matching
 Lab06: BCH Code Decoder  
 Lab07: Pseudo Random Number Generator  
 Lab08: Siamese Neural Network  
----------------- System Verilog -------------------  
-Lab09: Autonomous Flower Shop System  
-Lab10: Verfication of Lab09  
----------------------------------------------------  
+Lab09: Autonomous Flower Shop System (Design in SystemVerilog)  
+Lab10: Verfication of Lab09 (Verification in SystemVerilog)  
 Lab11: APR of Lab05  
 Lab12: APR (IR Drop)  
 
