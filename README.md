@@ -5,7 +5,7 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 
 ---
 
-  • **Lab01:** Huffman Coding (Combinational Circuits)   
+  • **Lab01:** Huffman Coding **(Combinational Circuits)**   
   
   • **Lab02:** MAZE (Sequential Circuits)   
   
