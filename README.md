@@ -42,7 +42,7 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 ---
 ||*Lab01*|*Lab02*|*Lab03*|*Lab04*|*Lab05*|*Lab06*|*Lab07*|*Lab08*|*Lab09*|*Lab10*|*Lab11*|*Lab12*|*Midterm Project*|*Final Project*|  
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|  
-|Demo|
+|Demo|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|
 |Rank|
-|Score|
+|Score|84.57|70.46|94.51|89.05|79.74|89.41|95.29|98.85(bonus 5pt)|91.53(bonus 5pt)|102.24(bonus 5pt)|93.33|100|85.26|102.89(bonus 5pt)|
 
