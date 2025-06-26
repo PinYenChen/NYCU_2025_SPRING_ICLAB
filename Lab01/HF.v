@@ -1,4 +1,4 @@
-module HF(Add commentMore actions
+module HF(
     // Input signals
     input [24:0] symbol_freq,
     // Output signals
