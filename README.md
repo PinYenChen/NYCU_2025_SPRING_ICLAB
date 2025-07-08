@@ -36,7 +36,7 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
   • **Final Project:** CPU **(DRAM, SRAM, AXI Protocol)**   
   
 ---
-本專案部分 pattern 範例來自課程助教或同學的分享，非完全由本人撰寫，僅供學習與技術交流之用，請勿作為課堂作業繳交或用於商業用途。如有侵權請告知我移除。
+部分 pattern 範例來自課程助教或同學的分享，非完全由本人撰寫，僅供學習與技術交流之用，請勿作為課堂作業繳交或用於商業用途。如有侵權請告知我移除。
 
 Some patterns in this project were originally provided by TAs or peers and are **not fully authored by me**. They are shared for learning and technical exchange purposes only. Do not submit them as assignments or use them commercially. If there is any copyright concern, please contact me for removal.
 
