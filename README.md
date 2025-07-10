@@ -35,7 +35,13 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
   
 
 ---
+##  Projects
 
+- **Midterm Project:** Maze Router Accelerator *(DRAM, SRAM, AXI Protocol)*
+   
+- **Final Project:** CPU *(DRAM, SRAM, AXI Protocol)*  
+
+---
 ##  Results
 
 ---
@@ -47,13 +53,7 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 |PassRate(1st_demo)|83.2%|55.2%|60.2%(design)/70.1%(pattern)|73.29%|60.87%|72.86%|71.4%|72.6%|69.5%|69.5%|65.84%|73.9%|71.4%|65.8%|  
 ---
 
-##  Projects
 
-- **Midterm Project:** Maze Router Accelerator *(DRAM, SRAM, AXI Protocol)*
-   
-- **Final Project:** CPU *(DRAM, SRAM, AXI Protocol)*  
-
----
 
 ##  Notice
 
