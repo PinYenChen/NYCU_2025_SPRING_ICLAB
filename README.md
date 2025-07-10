@@ -36,6 +36,17 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 
 ---
 
+##  Results
+
+---
+||*Lab01*|*Lab02*|*Lab03*|*Lab04*|*Lab05*|*Lab06*|*Lab07*|*Lab08*|*Lab09*|*Lab10*|*Lab11*|*Lab12*|*Midterm Project*|*Final Project*|  
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|  
+|Demo|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|
+|Rank|72/138|129/130|28/123|47/126|78/114|43/119|115/118|26/122|54/118|33/113|27/112|-|57/113|9/114|
+|Score|84.57|70.46|94.51|89.05|79.74|89.41|95.29|93.85|86.53|97.24|93.33|100|85.26|97.89|  
+|PassRate|||||||||||||||  
+---
+
 ##  Projects
 
 - **Midterm Project:** Maze Router Accelerator *(DRAM, SRAM, AXI Protocol)*
@@ -55,12 +66,5 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 
 
 
-<!--
----
-||*Lab01*|*Lab02*|*Lab03*|*Lab04*|*Lab05*|*Lab06*|*Lab07*|*Lab08*|*Lab09*|*Lab10*|*Lab11*|*Lab12*|*Midterm Project*|*Final Project*|  
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|  
-|Demo|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|1st|
-|Rank|72/138|129/130|28/123|47/126|78/114|43/119|115/118|26/122|54/118|33/113|27/112|-|57/113|9/114|
-|Score|84.57|70.46|94.51|89.05|79.74|89.41|95.29|93.85|86.53|97.24|93.33|100|85.26|97.89|  
--->  
+
 
