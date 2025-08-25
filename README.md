@@ -39,7 +39,7 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 
 - **Midterm Project:** Maze Router Accelerator *(DRAM, SRAM, AXI Protocol)*
    
-- **Final Project:** CPU *(DRAM, SRAM, AXI Protocol)*  
+- **Final Project:** Single Core Central Processing Unit (CPU) *(DRAM, SRAM, AXI Protocol)*  
 
 ---
 ##  Results
