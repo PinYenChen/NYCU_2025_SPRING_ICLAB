@@ -52,8 +52,8 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 |Score|84.57|70.46|94.51|89.05|79.74|89.41|95.29|93.85|86.53|97.24|93.33|100|85.26|97.89|  
 |PassRate(1st_demo)|83.2%|55.2%|60.2%(design)  /70.1%(pattern)|73.29%|60.87%|72.86%|71.4%|72.6%|69.5%|69.5%|65.84%|73.9%|71.4%|65.8%|  
 ---
-- Rank: 32/124  
-- Score: 90
+- Final Rank: 32/124  
+- Final Score: 90
 
 
 ##  Notice
