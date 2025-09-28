@@ -61,9 +61,8 @@ Welcome to my repository where I share the results of my ICLAB projects and the 
 - 部分 pattern 範例來自課程助教，僅供學習與技術交流之用，請勿作為課堂作業繳交或用於商業用途。如有侵權請告知我移除。
 - 如果需要該 lab 的其他 patterns，歡迎聯絡 ella900410@gmail.com
 
-
--Some pattern examples are provided by the course TAs and are intended only for learning and technical exchange. Please do not submit them as coursework or use them for commercial purposes. If this infringes on any rights, please contact me and I will remove them.  
--If you need other patterns from this lab, feel free to reach out to ella900410@gmail.com.
+- Some pattern examples are provided by the course TAs and are intended only for learning and technical exchange. Please do not submit them as coursework or use them for commercial purposes. If this infringes on any rights, please contact me and I will remove them.  
+- If you need other patterns from this lab, feel free to reach out to ella900410@gmail.com.
 
 
 
